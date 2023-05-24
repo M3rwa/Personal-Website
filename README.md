@@ -30,10 +30,6 @@ To use the personal website:
 
 Feel free to adapt the website to your specific needs, add new sections or features, and make it a reflection of your own professional profile and accomplishments.
 
-## License
-
-The repository does not specify any specific license for the code and assets. If you plan to use or distribute the code or assets from this repository, it is advisable to contact the repository owner or refer to any licensing information provided within the repository itself.
-
 ## Conclusion
 
 The personal website developed by M3rwa serves as an effective way to present their professional profile, showcase their projects, and provide contact information for potential collaborations or inquiries. By customizing the website to your own personal information and preferences, you can create a professional online presence that highlights your skills and accomplishments in the software engineering field.
